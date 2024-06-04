@@ -46,6 +46,7 @@ main {
 }
 .sidebar-img {
   width: 200px;
+  border-radius: 25% 10%;
 }
 .content {
   flex: 1;
